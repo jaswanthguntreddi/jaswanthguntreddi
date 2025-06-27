@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I'm a Computer Science student at GMR Institute of Technology (GMRIT)  <br>💻 Passionate MERN Stack Web Developer and ML<br>🏆 Competitive Programmer (mostly in C++)  <br>🚀 Always learning, building, and solving problems!
+🎓 I'm a Computer Science student at GMR Institute of Technology (GMRIT)  <br>💻 Passionate MERN Stack Web and ML Developer <br>🏆 Competitive Programmer <br>🚀 Always learning, building, and solving problems!
 
 
 ## 🌐 Socials:
